@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قبول تلقائي جيني</string>
+    <string name="accessibility_service_label">قبول تلقائي جيني</string>
+    <string name="accessibility_service_description">تمكّن هذه الخدمة التطبيق من قراءة شاشة جيني وقبول طلبات الرحلات تلقائياً بناءً على إعداداتك</string>
+</resources>
