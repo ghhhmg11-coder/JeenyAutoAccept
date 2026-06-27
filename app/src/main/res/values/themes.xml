@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JeenyAutoAccept" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_main</item>
+        <item name="colorPrimaryDark">@color/purple_main</item>
+        <item name="colorAccent">@color/purple_light</item>
+        <item name="android:layoutDirection">rtl</item>
+        <item name="android:textDirection">rtl</item>
+    </style>
+</resources>
